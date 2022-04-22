@@ -1,0 +1,15 @@
+D:\hello\delegateAndEvent\bin\Debug\net6.0\delegateAndEvent.exe
+D:\hello\delegateAndEvent\bin\Debug\net6.0\delegateAndEvent.deps.json
+D:\hello\delegateAndEvent\bin\Debug\net6.0\delegateAndEvent.runtimeconfig.json
+D:\hello\delegateAndEvent\bin\Debug\net6.0\delegateAndEvent.dll
+D:\hello\delegateAndEvent\bin\Debug\net6.0\delegateAndEvent.pdb
+D:\hello\delegateAndEvent\obj\Debug\net6.0\delegateAndEvent.csproj.AssemblyReference.cache
+D:\hello\delegateAndEvent\obj\Debug\net6.0\delegateAndEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\hello\delegateAndEvent\obj\Debug\net6.0\delegateAndEvent.AssemblyInfoInputs.cache
+D:\hello\delegateAndEvent\obj\Debug\net6.0\delegateAndEvent.AssemblyInfo.cs
+D:\hello\delegateAndEvent\obj\Debug\net6.0\delegateAndEvent.csproj.CoreCompileInputs.cache
+D:\hello\delegateAndEvent\obj\Debug\net6.0\delegateAndEvent.dll
+D:\hello\delegateAndEvent\obj\Debug\net6.0\refint\delegateAndEvent.dll
+D:\hello\delegateAndEvent\obj\Debug\net6.0\delegateAndEvent.pdb
+D:\hello\delegateAndEvent\obj\Debug\net6.0\delegateAndEvent.genruntimeconfig.cache
+D:\hello\delegateAndEvent\obj\Debug\net6.0\ref\delegateAndEvent.dll
